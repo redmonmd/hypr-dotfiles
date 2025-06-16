@@ -1,0 +1,1 @@
+/var/lib/flatpak/exports/bin/app.zen_browser.zen
